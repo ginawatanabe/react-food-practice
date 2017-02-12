@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Barrio');
+
+
+.App {
+  border: 2px solid black;
+  text-align: center;
+  background: #f5f5f5;
+  color: #333;
+  margin: 20px;
+  padding: 20px;
+}
+
+#root {
+  height: 900px;
+  width: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /*background-color: red;*/
+  font-family: 'Barrio', cursive;
+  font-size: 30px;
+}
